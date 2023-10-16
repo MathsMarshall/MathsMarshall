@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MathsMarshall
 - 👀 I’m interested in problem solving and problem creation
-- 🌱 I’m currently learning a bit of C++
+- 🌱 I’m currently learning a bit of python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nwachukwummesomachi@gmail.com
 
