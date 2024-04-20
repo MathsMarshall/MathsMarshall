@@ -6,12 +6,12 @@
 
 
 
-int min (int ,int );
-int max (int ,int );
-int GCD( int  , int  );
-int abs( int );
-int Totient(int );
-bool  isNumberPrime( int  );
+int min (int, int);
+int max (int, int);
+int GCD (int, int);
+int abs (int);
+int Totient (int);
+bool  isNumberPrime (int);
 
 int main()
 {
@@ -51,7 +51,7 @@ int main()
 
 
 
-int GCD( int a , int  b){
+int GCD( int a ,int b){
 
     int smaller_number = min(a,b);
     int bigger_number = max(a,b);
@@ -71,11 +71,11 @@ int max (int a, int b){
     return a > b ? a : b;
 }
 
-int min (int a,int b){
+int min (int a, int b){
     return a > b ? b : a;
 }
 
-int abs( int a){
+int abs (int a){
     if( a > 0)
         return a;
     else
@@ -97,7 +97,7 @@ int Totient(int a){
 
 }
 
-bool  isNumberPrime( int a ){
+bool  isNumberPrime (int a){
     if(Totient(a) == a - 1)
         return true;
     else
