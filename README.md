@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MathsMarshall
 - 👀 I’m interested in problem solving and problem creation
-- 🌱 I’m currently learning a bit of python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine/Deep Learning
+- 💞️ I’m looking to collaborate on ML/DL projects
 - 📫 How to reach me nwachukwummesomachi@gmail.com
 
 <!---
